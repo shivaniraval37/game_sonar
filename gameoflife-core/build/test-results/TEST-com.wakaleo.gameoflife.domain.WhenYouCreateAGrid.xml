@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" tests="16" skipped="0" failures="0" errors="0" timestamp="2016-06-30T12:52:30" hostname="IBM193-PC0CRMUW" time="0.007">
+  <properties/>
+  <testcase name="shouldBeAbleToCountLiveNeighboursOfACell" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.002"/>
+  <testcase name="shouldBeAbleToReadTheStateOfADeadCell" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="theGridContentsAsAnArrayShouldBeTheCorrectSize" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToSeedAGridWithAString" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToSeedAGridWithANonEmptyString" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="aNewGridShouldBeEmpty" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToReadTheWidthOfTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToCountLiveNeighboursOfACellOnBoundaries" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="ModifyingTheGridContentsAsAnArrayShouldNotModifyTheOriginalContents" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldNotCountTheTargetCellAsANeighbour" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.001"/>
+  <testcase name="shouldBeAbleToReadTheStateOfALivingCell" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToReadTheHeightOfTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToCountLiveNeighboursOfACellInTheMiddleOfTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToCountLiveNeighboursOfACellOnDiagonalsAndStraightLines" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToObtainTheGridContentsAsAnArray" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <testcase name="shouldBeAbleToCountLiveNeighboursOfACellOnAnotherLine" classname="com.wakaleo.gameoflife.domain.WhenYouCreateAGrid" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

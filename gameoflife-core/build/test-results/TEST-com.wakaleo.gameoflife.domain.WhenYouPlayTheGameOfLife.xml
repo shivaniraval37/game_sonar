@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wakaleo.gameoflife.domain.WhenYouPlayTheGameOfLife" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-06-30T12:52:30" hostname="IBM193-PC0CRMUW" time="0.001">
+  <properties/>
+  <testcase name="aCellWithNoNeighboursShouldDieInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouPlayTheGameOfLife" time="0.0"/>
+  <testcase name="liveCellaWith2or3iveNeighbourShouldRemainAliveInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouPlayTheGameOfLife" time="0.0"/>
+  <testcase name="aDeadCellWithNoNeighboursShouldRemainDeadInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouPlayTheGameOfLife" time="0.0"/>
+  <testcase name="aDeadCellWithOneLiveNeighbourShouldRemainDeadInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouPlayTheGameOfLife" time="0.0"/>
+  <testcase name="aLiveCellWithExactlyTwoLiveNeighbourShouldRemainAliveInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouPlayTheGameOfLife" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

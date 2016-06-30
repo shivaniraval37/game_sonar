@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wakaleo.gameoflife.webtests.controllers.WhenCreatingANewGame" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-06-30T12:52:31" hostname="IBM193-PC0CRMUW" time="0.158">
+  <properties/>
+  <testcase name="anEmptyUniverseShouldBeAddedToTheSession" classname="com.wakaleo.gameoflife.webtests.controllers.WhenCreatingANewGame" time="0.008"/>
+  <testcase name="whenTheUserCreatesTheFirstGenerationAnEmptyUniverseShouldBeAddedToTheSession" classname="com.wakaleo.gameoflife.webtests.controllers.WhenCreatingANewGame" time="0.102"/>
+  <testcase name="whenTheUserCreatesTheFirstGenerationTheUniverseDimensionsShouldBeAddedToTheSession" classname="com.wakaleo.gameoflife.webtests.controllers.WhenCreatingANewGame" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

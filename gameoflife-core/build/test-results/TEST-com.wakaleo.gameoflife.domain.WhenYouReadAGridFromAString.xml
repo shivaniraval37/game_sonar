@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-06-30T12:52:30" hostname="IBM193-PC0CRMUW" time="0.001">
+  <properties/>
+  <testcase name="shouldRefuseIllegalCellCharacters" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <testcase name="shouldBeAbleToReadAGridContainingLiveAndDeadCells" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <testcase name="shouldBeAbleToReadAnAsymetricalGridContainingLiveAndDeadCells" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <testcase name="shouldBeAbleToReadAVeryLargerGrid" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <testcase name="shouldBeAbleToReadALargerGrid" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <testcase name="shouldBeAbleToReadAGridContainingASingleCellFromAString" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <testcase name="shouldBeAbleToReadAGridOfCellsFromAString" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <testcase name="shouldBeAbleToReadAnEmptyGridOfCellsFromAnEmptyString" classname="com.wakaleo.gameoflife.domain.WhenYouReadAGridFromAString" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

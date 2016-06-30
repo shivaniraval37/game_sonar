@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" tests="11" skipped="0" failures="0" errors="0" timestamp="2016-06-30T12:52:30" hostname="IBM193-PC0CRMUW" time="0.002">
+  <properties/>
+  <testcase name="aUserCanAssignALiveCellAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.001"/>
+  <testcase name="aUniverseCanBeInitializedWithAnyDimension" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUniverseSeededWithAnEmpyGridContentWillContainAnEmptyGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUserCanReadADeadCellValueAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUserCanObtainTheGridContentsAsAnArrayOfCells" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUserCanReadALiveCellValueAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUserCanAssignADeadCellAtAGivenPointInTheGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUniverseSeededWithAGridContainingASingleLiveCellContentWillSpawnAnEmptyGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUniverseSeededWithAGridWithLivingCellsContentWillContainThatGrid" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aUniverseSpawnsANewGridInTheNextGeneration" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <testcase name="aNewUniverseShouldContainOnlyDeadCells" classname="com.wakaleo.gameoflife.domain.WhenYouCreateANewUniverse" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

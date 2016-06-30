@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wakaleo.gameoflife.domain.WhenYouCreateACell" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-06-30T12:52:30" hostname="IBM193-PC0CRMUW" time="0.007">
+  <properties/>
+  <testcase name="aDeadCellShouldBePrintedAsADot" classname="com.wakaleo.gameoflife.domain.WhenYouCreateACell" time="0.004"/>
+  <testcase name="aLiveCellShouldBePrintedAsAnAsterisk" classname="com.wakaleo.gameoflife.domain.WhenYouCreateACell" time="0.0"/>
+  <testcase name="aLiveCellSymbolShouldBeAnAsterisk" classname="com.wakaleo.gameoflife.domain.WhenYouCreateACell" time="0.0"/>
+  <testcase name="aDeadCellShouldBeRepresentedByADot" classname="com.wakaleo.gameoflife.domain.WhenYouCreateACell" time="0.0"/>
+  <testcase name="aDeadCellSymbolShouldBeADot" classname="com.wakaleo.gameoflife.domain.WhenYouCreateACell" time="0.0"/>
+  <testcase name="aLiveCellShouldBeRepresentedByAnAsterisk" classname="com.wakaleo.gameoflife.domain.WhenYouCreateACell" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
